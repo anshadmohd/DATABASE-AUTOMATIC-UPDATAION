@@ -7,9 +7,9 @@ NOW_DATE=$(date '+%Y-%m-%d-%H-%M')
 RESTORE_FROM_INSTANCE_ID=database-1
 TARGET_INSTANCE_ID=temp
 TARGET_INSTANCE_CLASS=db.t3.micro
-VPC_ID=default-vpc-1311111111111
+VPC_ID=Your_vpc_group_id
 NEW_MASTER_PASS=*****
-SECURITY_GROUP_ID=sg-0iq0d3e0ie
+SECURITY_GROUP_ID=Your_sg_group_id
 
 # do the stuff
 
