@@ -1,4 +1,4 @@
-# (bash script) DATABASE-AUTOMATIC-UPDATAION
+# DATABASE-AUTOMATIC-UPDATAION ((bash script) 
 
 Automating these steps 
 1. creating an snapshot of the current live database
