@@ -1,4 +1,4 @@
-# DATABASE-AUTOMATIC-UPDATAION (bash script) 
+# RDS DB-AUTOMATIC-DUMPING for live servers (bash script) 
 
 Automating these steps 
 1. creating an snapshot of the current live database
